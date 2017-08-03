@@ -1,0 +1,3 @@
+[submodule "PLM-FRAMEWORK-DI"]
+	path = PLM-FRAMEWORK-DI
+	url = https://github.dev.global.tesco.org/ProductLifecycleManagement/PLM-FRAMEWORK-DI.git
